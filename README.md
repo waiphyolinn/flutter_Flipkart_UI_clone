@@ -1,18 +1,16 @@
 # Flutter Flipkart UI Demo
 
-A sample application to show Flipkart Flutter Clone. 
+A sample application to show Flipkart Clone using Flutter. 
 
-# Demo
+## Demo
 <img height="480px" width="244px" src="https://github.com/flutter-devs/flutter_Flipkart_UI_clone/blob/master/screens/demo.gif">
 
 
 
-# Android Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_Flipkart_UI_clone/blob/master/screens/android1.png"> 
+## Android & iOS Screen
+<img align="left" height="480px" src="https://github.com/flutter-devs/flutter_Flipkart_UI_clone/blob/master/screens/android1.png">
+<img align="center" height="480px" src="https://github.com/flutter-devs/flutter_Flipkart_UI_clone/blob/master/screens/iphone1.png">
 
-
-# iOS Screen
-<img height="480px" src="https://github.com/flutter-devs/flutter_Flipkart_UI_clone/blob/master/screens/iphone1.png">
 
 
 ## Getting Started
